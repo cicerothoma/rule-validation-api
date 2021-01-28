@@ -5,7 +5,7 @@ module.exports = (req, res, next) => {
     data: {
       name: "Collins Thomas",
       github: "@cicerothoma",
-      email: "thoamscollins582@gmail.com",
+      email: "thomascollins582@gmail.com",
       mobile: "08138591185",
       twitter: "@CiceroThoma",
     },
